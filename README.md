@@ -1,6 +1,8 @@
-# [RingCentral Engage digital source SDK python](https://github.com/ringcentral/engage-digital-source-sdk-python)
+# [RingCentral Engage Digital Source SDK for Python](https://github.com/ringcentral/engage-digital-source-sdk-python)
 
-Framework(python) to create `Engage Digital channel SDK` channel for RingCentral Engage Digital. [Wiki about RingCentral Engage Digital channel SDK channel](https://github.com/ringcentral/engage-digital-source-sdk/wiki), which is a customized channel that support any source user want to use.
+A Framework, in Python, to create an `Engage Digital Channel SDK` channel for RingCentral Engage Digital. 
+
+* Please see the [Developer Guides](https://developers.ringcentral.com/engage/digital/guide/sdks/source-sdk) for documentation on how to customize a channel to support any source such as Wordpress, Reddit, or even RingCentral Team Messaging.
 
 ### Install Prerequisites
 
